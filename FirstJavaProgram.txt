@@ -1,0 +1,7 @@
+public class FirstJavaProgram {
+	public static void main(String[] args){
+		System.out.print("My name is Joseph Smith");
+		System.out.print("I am 29 years old");
+		System.out.print("My hometown is Kemp, TX");
+	}
+}
